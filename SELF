@@ -18,3 +18,4 @@ mean(year1R$shot_made_flag[year1R$shot_type == "3PT Field Goal"])
 mean(year1P$shot_made_flag[year1P$shot_type == "3PT Field Goal"])
 
 我猜芳宜看得到
+芳宜安安
