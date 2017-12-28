@@ -16,3 +16,5 @@ mean(year1P$shot_made_flag[year1P$shot_type == "2PT Field Goal"])
 #季前、後3分球命中率，季前略高
 mean(year1R$shot_made_flag[year1R$shot_type == "3PT Field Goal"])
 mean(year1P$shot_made_flag[year1P$shot_type == "3PT Field Goal"])
+
+我是David 犧牲歲末來上課 好棒棒
